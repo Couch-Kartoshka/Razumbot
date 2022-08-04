@@ -6,9 +6,12 @@
 
 Проект развлекательный, великих целей не имеет.
 
-Используемый стек: 
-* Python 3.7.9
-* Модуль pyTelegramBotAPI (https://github.com/eternnoir/pyTelegramBotAPI)
+## Используемый стек: 
+- Python 3.7.9
+- Модуль pyTelegramBotAPI (https://github.com/eternnoir/pyTelegramBotAPI)
+
+## Автор:
+Кира Изгагина
 
 P.S. Данного бота можно легко привязать к сообщениям любого нужного вам пользователя, просто изменив ник 'olobot' в коде программы.
 
